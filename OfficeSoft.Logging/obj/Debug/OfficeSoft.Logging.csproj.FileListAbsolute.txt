@@ -1,0 +1,5 @@
+C:\Projects\OSOFT\OfficeSoft.Logging\bin\Debug\OfficeSoft.Logging.dll
+C:\Projects\OSOFT\OfficeSoft.Logging\bin\Debug\OfficeSoft.Logging.pdb
+C:\Projects\OSOFT\OfficeSoft.Logging\obj\Debug\OfficeSoft.Logging.dll
+C:\Projects\OSOFT\OfficeSoft.Logging\obj\Debug\OfficeSoft.Logging.pdb
+C:\Projects\OSOFT\OfficeSoft.Logging\obj\Debug\OfficeSoft.Logging.csprojResolveAssemblyReference.cache
